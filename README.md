@@ -1,5 +1,8 @@
 # EntregaCypressMonkey
-Non-graded Assignment Ivan Dario Peñaloza Rojas
+Non-graded Assignment 
+
+Nombre: Ivan Dario Peñaloza Rojas
+Curso: Pruebas Automatizadas de Software
 
 ## Forma de ejecutar el codigo
 1. El codigo se encuentra en el archivo monkey_testing.spec.js
