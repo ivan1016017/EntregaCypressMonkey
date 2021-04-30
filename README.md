@@ -1,5 +1,5 @@
 # EntregaCypressMonkey
-Non-graded Assignment
+Non-graded Assignment Ivan Dario Peñaloza Rojas
 
 ## Forma de ejecutar el codigo
 1. El codigo se encuentra en el archivo monkey_testing.spec.js
